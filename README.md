@@ -14,7 +14,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theexplorer0302" alt="theexplorer0302" /></a>
 </p>
 
-- 🔭 I’m currently working on **Cell Phone Automation using Django**
+- 🔭 I’m currently working on **Event Management System using Django**
 - 🌱 I’m currently learning **Django, Flutter**
 - 💬 Ask me about **HTML, CSS, Javascript, MongoDB, Node.js, React.js**
 - 📫 How to reach me **neha0307work@gmail.com**

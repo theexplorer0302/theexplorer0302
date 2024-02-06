@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3brmbvwhn%2btgqvt5iaey9u5w%3d%3d" target="blank">
+  <a href="https://www.linkedin.com/in/niha-g-3b62412b3/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/jgnehnur1" target="blank">
